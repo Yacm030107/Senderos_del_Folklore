@@ -8,6 +8,7 @@
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
+<div class="cinta">SENDEROS DEL FOLKLORE · UTH VILLANUEVA</div>
 <header class="portada">
   <img src="portada.jpg" alt="Senderos del Folklore - foto grupal" class="portada-img">
   <div class="portada-texto">
@@ -66,17 +67,29 @@
   </div>
 </section>
 
-<section id="linea" class="bloque">
-  <h2>Línea de tiempo</h2>
-  <ol class="timeline">
-    <li><strong>Jul 2025</strong> — Primera presentación UTH San Pedro (4 fotos)</li>
-    <li><strong>24 Jul</strong> — Liberty School (1 foto + 2 clips)</li>
-    <li><strong>10 Sept 2025</strong> — FUNCAIN (1 foto)</li>
-    <li><strong>Sept 2025</strong> — Bienvenida Villanueva 3er periodo (1 clip)</li>
-    <li><strong>Abr 2026</strong> — UTH principios de abril (2 fotos + 2 clips)</li>
-    <li><strong>Ago 2026</strong> — Municipalidad (2 fotos + 1 clip)</li>
-    <li><strong>12 Sept 2026</strong> — UTH San Pedro / SPS (8 fotos + 6 clips)</li>
-  </ol>
+<section id="linea" class="linea-full">
+  <div class="linea-inner">
+    <h2>Línea de tiempo</h2>
+    <p class="ayuda">Toca cada punto del riel para ver la etapa. Empieza en el debut de julio 2025.</p>
+    <div class="riel" id="riel">
+      <div class="riel-fondo"></div>
+      <div class="riel-progreso" id="rielProg"></div>
+      <button class="nodo activo" data-paso="0" aria-label="Julio 2025"></button>
+      <button class="nodo" data-paso="1" aria-label="Septiembre 2025"></button>
+      <button class="nodo" data-paso="2" aria-label="Abril a agosto 2026"></button>
+      <button class="nodo" data-paso="3" aria-label="Septiembre 2026"></button>
+    </div>
+    <div class="pasos" id="pasos">
+      <article class="tarjeta activa" data-paso="0"><strong>Jul 2025</strong><span>Debut SPS · primera presentación en UTH San Pedro (4 fotos)</span></article>
+      <article class="tarjeta" data-paso="1"><strong>Sept 2025</strong><span>FUNCAIN + Villanueva · bienvenida 3er periodo (1 foto + 1 clip)</span></article>
+      <article class="tarjeta" data-paso="2"><strong>Abr–Ago 2026</strong><span>UTH + Municipalidad · repertorio ampliado (2 fotos + 3 clips)</span></article>
+      <article class="tarjeta" data-paso="3"><strong>12 Sept 2026</strong><span>SPS gran cierre · UTH San Pedro (8 fotos + 6 clips)</span></article>
+    </div>
+    <figure class="foto-paso">
+      <img id="fotoPaso" src="fotos/foto-02.jpg" alt="Foto de la etapa seleccionada">
+      <figcaption id="capPaso">Debut · UTH San Pedro · Jul 2025</figcaption>
+    </figure>
+  </div>
 </section>
 
 <section id="fotos" class="bloque">
