@@ -1,0 +1,186 @@
+{
+  "fotos": [
+    {
+      "file": "fotos/foto-01.jpg",
+      "original": "primera presentacion en uth de san pedro julio de 2025 2.jpeg",
+      "fecha": "2025-07-01",
+      "evento": "Primera presentación · UTH San Pedro · Julio 2025"
+    },
+    {
+      "file": "fotos/foto-02.jpg",
+      "original": "primera presentacion en uth de san pedro julio de 2025 3.jpeg",
+      "fecha": "2025-07-01",
+      "evento": "Primera presentación · UTH San Pedro · Julio 2025"
+    },
+    {
+      "file": "fotos/foto-03.png",
+      "original": "primera presentacion en uth de san pedro julio de 2025 3.png",
+      "fecha": "2025-07-01",
+      "evento": "Primera presentación · UTH San Pedro · Julio 2025"
+    },
+    {
+      "file": "fotos/foto-04.jpg",
+      "original": "primera presentacion en uth de san pedro julio de 2025.jpeg",
+      "fecha": "2025-07-01",
+      "evento": "Primera presentación · UTH San Pedro · Julio 2025"
+    },
+    {
+      "file": "fotos/foto-05.jpg",
+      "original": "Presntecion a Liberty School  24 de julio.jpeg",
+      "fecha": "2025-07-24",
+      "evento": "Presentación Liberty School · 24 de Julio"
+    },
+    {
+      "file": "fotos/foto-06.png",
+      "original": "presentacion en funcain 2025 10 se septiembre.png",
+      "fecha": "2025-09-10",
+      "evento": "Presentación FUNCAIN · 10 Sept 2025"
+    },
+    {
+      "file": "fotos/foto-07.jpg",
+      "original": "Presntecionen uth principios de abril 2.jpeg",
+      "fecha": "2026-04-05",
+      "evento": "Presentación UTH · Principios de Abril 2026"
+    },
+    {
+      "file": "fotos/foto-08.jpg",
+      "original": "Presntecionen uth principios de abril.jpeg",
+      "fecha": "2026-04-05",
+      "evento": "Presentación UTH · Principios de Abril 2026"
+    },
+    {
+      "file": "fotos/foto-09.jpg",
+      "original": "Presntecion en municipalidad agosto 2026 2.jpeg",
+      "fecha": "2026-08-15",
+      "evento": "Presentación Municipalidad · Agosto 2026"
+    },
+    {
+      "file": "fotos/foto-10.jpg",
+      "original": "Presntecion en municipalidad agosto 2026.jpeg",
+      "fecha": "2026-08-15",
+      "evento": "Presentación Municipalidad · Agosto 2026"
+    },
+    {
+      "file": "fotos/foto-11.jpg",
+      "original": "presentacion en uth dde san pedro 12 ddddde septiembre del 2026 2.jpeg",
+      "fecha": "2026-09-12",
+      "evento": "Presentación UTH San Pedro · 12 Sept 2026"
+    },
+    {
+      "file": "fotos/foto-12.jpg",
+      "original": "presentacion en uth dde san pedro 12 ddddde septiembre del 2026 3.jpeg",
+      "fecha": "2026-09-12",
+      "evento": "Presentación UTH San Pedro · 12 Sept 2026"
+    },
+    {
+      "file": "fotos/foto-13.jpg",
+      "original": "presentacion en uth dde san pedro 12 ddddde septiembre del 2026.jpeg",
+      "fecha": "2026-09-12",
+      "evento": "Presentación UTH San Pedro · 12 Sept 2026"
+    },
+    {
+      "file": "fotos/foto-14.jpg",
+      "original": "presentacion en uth dde san pedro 12 de septiembre del 2026 2.jpeg",
+      "fecha": "2026-09-12",
+      "evento": "Presentación UTH San Pedro · 12 Sept 2026"
+    },
+    {
+      "file": "fotos/foto-15.jpg",
+      "original": "presentacion en uth dde san pedro 12 de septiembre del 2026 3.jpeg",
+      "fecha": "2026-09-12",
+      "evento": "Presentación UTH San Pedro · 12 Sept 2026"
+    },
+    {
+      "file": "fotos/foto-16.jpg",
+      "original": "presentacion en uth dde san pedro 12 de septiembre del 2026 4.jpeg",
+      "fecha": "2026-09-12",
+      "evento": "Presentación UTH San Pedro · 12 Sept 2026"
+    },
+    {
+      "file": "fotos/foto-17.jpg",
+      "original": "presentacion en uth de san pedro 12 ddddde septiembre del 2026 2.jpeg",
+      "fecha": "2026-09-12",
+      "evento": "Presentación UTH San Pedro · 12 Sept 2026"
+    },
+    {
+      "file": "fotos/foto-18.jpg",
+      "original": "presentacion en uth de san pedro 12 de septiembre del 2026 2.jpeg",
+      "fecha": "2026-09-12",
+      "evento": "Presentación UTH San Pedro · 12 Sept 2026"
+    }
+  ],
+  "clips": [
+    {
+      "file": "videos/clip-01.mp4",
+      "original": "presenacion en uth villlanueva bienvenida 3 perioddo 2025 finales de septiembre 2025.mp4",
+      "evento": "Bienvenida 3er periodo · UTH Villanueva · Sept 2025",
+      "inicio_seg": "67.5"
+    },
+    {
+      "file": "videos/clip-02.mp4",
+      "original": "presentacion en uth dde san pedro 12 ddddde septiembre del 2026 2.mp4",
+      "evento": "Presentación UTH San Pedro · 12 Sept 2026",
+      "inicio_seg": "54.1"
+    },
+    {
+      "file": "videos/clip-03.mp4",
+      "original": "presentacion en uth dde san pedro 12 dde septiembre del 2026 2.mp4",
+      "evento": "Presentación UTH San Pedro · 12 Sept 2026",
+      "inicio_seg": "136.0"
+    },
+    {
+      "file": "videos/clip-04.mp4",
+      "original": "presentacion en uth de san pedro 12 de septiembre del 2026 2.mp4",
+      "evento": "Presentación UTH San Pedro · 12 Sept 2026",
+      "inicio_seg": "256.5"
+    },
+    {
+      "file": "videos/clip-05.mp4",
+      "original": "presentacion uth sps 12 de septiembre 2026 2.mp4",
+      "evento": "Presentación UTH San Pedro · 12 Sept 2026",
+      "inicio_seg": "0"
+    },
+    {
+      "file": "videos/clip-06.mp4",
+      "original": "presentacion uth sps 12 de septiembre 2026 3.mp4",
+      "evento": "Presentación UTH San Pedro · 12 Sept 2026",
+      "inicio_seg": "0"
+    },
+    {
+      "file": "videos/clip-07.mp4",
+      "original": "presentacion uth sps 12 de septiembre 2026.mp4",
+      "evento": "Presentación UTH San Pedro · 12 Sept 2026",
+      "inicio_seg": "11.1"
+    },
+    {
+      "file": "videos/clip-08.mp4",
+      "original": "Presntecion a Liberty School  24 de julio",
+      "evento": "Presentación Liberty School · 24 de Julio",
+      "inicio_seg": "255.9"
+    },
+    {
+      "file": "videos/clip-09.mp4",
+      "original": "Presntecion a Liberty School  24 de julio 2.mp4",
+      "evento": "Presentación Liberty School · 24 de Julio",
+      "inicio_seg": "138.5"
+    },
+    {
+      "file": "videos/clip-10.mp4",
+      "original": "Presntecion en municipalidad agosto 2026.mp4",
+      "evento": "Presentación Municipalidad · Agosto 2026",
+      "inicio_seg": "157.2"
+    },
+    {
+      "file": "videos/clip-11.mp4",
+      "original": "Presntecionen uth principios de abril 2.mp4",
+      "evento": "Presentación UTH · Principios de Abril 2026",
+      "inicio_seg": "74.0"
+    },
+    {
+      "file": "videos/clip-12.mp4",
+      "original": "Presntecionen uth principios de abril.mp4",
+      "evento": "Presentación UTH · Principios de Abril 2026",
+      "inicio_seg": "56.9"
+    }
+  ]
+}
