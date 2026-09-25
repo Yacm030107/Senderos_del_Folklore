@@ -25,6 +25,9 @@ h1{margin:.15em 0;font-size:clamp(2.1rem,6vw,3.6rem);text-shadow:0 2px 12px rgba
 .hitos div:nth-child(odd){background:var(--amarillo-suave)}
 .hitos strong{display:block;color:var(--verde);margin-bottom:4px}
 .dato{background:var(--verde-oscuro);color:#fff;padding:12px 16px;border-radius:12px;border-left:8px solid var(--amarillo)}
+.lema{font-style:italic;font-size:1.05rem;color:var(--verde-oscuro);border-left:8px solid var(--amarillo);padding:10px 14px;background:var(--amarillo-suave);border-radius:0 12px 12px 0}
+.firma{text-align:center;font-weight:800;font-size:1.1rem;color:var(--verde-oscuro)}
+.firma em{font-weight:400;color:var(--verde)}
 /* Elenco */
 .fundador{position:absolute;top:12px;left:0;z-index:2;background:linear-gradient(90deg,#9a6b00,#ffd700 60%,#ffedb0);color:#3a2b00;font-weight:800;font-size:.7rem;letter-spacing:.1em;padding:6px 14px 6px 10px;border-radius:0 999px 999px 0;box-shadow:0 2px 8px rgba(0,0,0,.35)}
 .coordinador{position:absolute;top:44px;left:0;z-index:2;background:linear-gradient(90deg,var(--verde-oscuro),var(--verde-vivo));color:#fff;font-weight:800;font-size:.7rem;letter-spacing:.1em;padding:6px 14px 6px 10px;border-radius:0 999px 999px 0;box-shadow:0 2px 8px rgba(0,0,0,.35)}
