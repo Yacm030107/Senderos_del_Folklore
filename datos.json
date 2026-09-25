@@ -2,120 +2,180 @@
   "fotos": [
     {
       "file": "fotos/foto-01.jpg",
+      "original": "Camino a nuestra Primera presntacio en uth sps.jpeg",
+      "fecha": "2025-07-01",
+      "evento": "Camino a la primera presentación · UTH SPS · Julio 2025"
+    },
+    {
+      "file": "fotos/foto-02.jpg",
       "original": "primera presentacion en uth de san pedro julio de 2025 2.jpeg",
       "fecha": "2025-07-01",
       "evento": "Primera presentación · UTH San Pedro · Julio 2025"
     },
     {
-      "file": "fotos/foto-02.jpg",
+      "file": "fotos/foto-03.jpg",
       "original": "primera presentacion en uth de san pedro julio de 2025 3.jpeg",
       "fecha": "2025-07-01",
       "evento": "Primera presentación · UTH San Pedro · Julio 2025"
     },
     {
-      "file": "fotos/foto-03.png",
+      "file": "fotos/foto-04.png",
       "original": "primera presentacion en uth de san pedro julio de 2025 3.png",
       "fecha": "2025-07-01",
       "evento": "Primera presentación · UTH San Pedro · Julio 2025"
     },
     {
-      "file": "fotos/foto-04.jpg",
+      "file": "fotos/foto-05.jpg",
       "original": "primera presentacion en uth de san pedro julio de 2025.jpeg",
       "fecha": "2025-07-01",
       "evento": "Primera presentación · UTH San Pedro · Julio 2025"
     },
     {
-      "file": "fotos/foto-05.jpg",
+      "file": "fotos/foto-06.jpg",
       "original": "Presentacion en sps (Primera).jpeg",
       "fecha": "2025-07-01",
       "evento": "Primera presentación · UTH San Pedro · Julio 2025"
     },
     {
-      "file": "fotos/foto-06.jpg",
+      "file": "fotos/foto-07.jpg",
       "original": "Presentacion en sps (Primera) 2.jpeg",
       "fecha": "2025-07-01",
       "evento": "Primera presentación · UTH San Pedro · Julio 2025"
     },
     {
-      "file": "fotos/foto-07.png",
+      "file": "fotos/foto-08.png",
       "original": "presentacion en funcain 2025 10 se septiembre.png",
       "fecha": "2025-09-10",
       "evento": "Presentación FUNCAIN · 10 Sept 2025"
     },
     {
-      "file": "fotos/foto-08.jpg",
+      "file": "fotos/foto-09.jpg",
       "original": "Presntecionen uth principios de abril 2.jpeg",
       "fecha": "2026-02-07",
       "evento": "Presentación UTH · 7 de febrero de 2026"
     },
     {
-      "file": "fotos/foto-09.jpg",
+      "file": "fotos/foto-10.jpg",
       "original": "Presntecionen uth principios de abril.jpeg",
       "fecha": "2026-02-07",
       "evento": "Presentación UTH · 7 de febrero de 2026"
     },
     {
-      "file": "fotos/foto-10.jpg",
+      "file": "fotos/foto-11.jpg",
+      "original": "Plus participacion de miembreo en el concurso de chico verano 7 de febrero del 2026.jpeg",
+      "fecha": "2026-02-07",
+      "evento": "Concurso Chico Verano · 7 de febrero de 2026"
+    },
+    {
+      "file": "fotos/foto-12.jpg",
+      "original": "Presntacion el 7 de febrero del 2026.jpeg",
+      "fecha": "2026-02-07",
+      "evento": "Presentación UTH · 7 de febrero de 2026"
+    },
+    {
+      "file": "fotos/foto-13.jpg",
       "original": "Presntecion a Liberty School  24 de julio.jpeg",
       "fecha": "2026-07-24",
       "evento": "Presentación Liberty School · 24 de julio de 2026"
     },
     {
-      "file": "fotos/foto-11.jpg",
+      "file": "fotos/foto-14.jpg",
       "original": "Presntecion en municipalidad agosto 2026 2.jpeg",
       "fecha": "2026-08-15",
       "evento": "Presentación Municipalidad · Agosto 2026"
     },
     {
-      "file": "fotos/foto-12.jpg",
+      "file": "fotos/foto-15.jpg",
       "original": "Presntecion en municipalidad agosto 2026.jpeg",
       "fecha": "2026-08-15",
       "evento": "Presentación Municipalidad · Agosto 2026"
     },
     {
-      "file": "fotos/foto-13.jpg",
+      "file": "fotos/foto-16.jpg",
+      "original": "presentacion en La municipalidad de villanueva 1.jpeg",
+      "fecha": "2026-08-15",
+      "evento": "Presentación en Municipalidad de Villanueva · Ago 2026"
+    },
+    {
+      "file": "fotos/foto-17.jpg",
+      "original": "presentacion en La municipalidad de villanueva 2.jpeg",
+      "fecha": "2026-08-15",
+      "evento": "Presentación en Municipalidad de Villanueva · Ago 2026"
+    },
+    {
+      "file": "fotos/foto-18.jpg",
+      "original": "presentacion en La municipalidad de villanueva 3.jpeg",
+      "fecha": "2026-08-15",
+      "evento": "Presentación en Municipalidad de Villanueva · Ago 2026"
+    },
+    {
+      "file": "fotos/foto-19.jpg",
+      "original": "presentacion en La municipalidad de villanueva 4.jpeg",
+      "fecha": "2026-08-15",
+      "evento": "Presentación en Municipalidad de Villanueva · Ago 2026"
+    },
+    {
+      "file": "fotos/foto-20.jpg",
+      "original": "presentacion en La municipalidad de villanueva 5.jpeg",
+      "fecha": "2026-08-15",
+      "evento": "Presentación en Municipalidad de Villanueva · Ago 2026"
+    },
+    {
+      "file": "fotos/foto-21.jpg",
+      "original": "presentacion en La municipalidad de villanueva 6.jpeg",
+      "fecha": "2026-08-15",
+      "evento": "Presentación en Municipalidad de Villanueva · Ago 2026"
+    },
+    {
+      "file": "fotos/foto-22.jpg",
+      "original": "presentacion en La municipalidad de villanueva.jpeg",
+      "fecha": "2026-08-15",
+      "evento": "Presentación en Municipalidad de Villanueva · Ago 2026"
+    },
+    {
+      "file": "fotos/foto-23.jpg",
       "original": "presentacion en uth dde san pedro 12 ddddde septiembre del 2026 2.jpeg",
       "fecha": "2026-09-12",
       "evento": "Presentación UTH San Pedro · 12 Sept 2026"
     },
     {
-      "file": "fotos/foto-14.jpg",
+      "file": "fotos/foto-24.jpg",
       "original": "presentacion en uth dde san pedro 12 ddddde septiembre del 2026 3.jpeg",
       "fecha": "2026-09-12",
       "evento": "Presentación UTH San Pedro · 12 Sept 2026"
     },
     {
-      "file": "fotos/foto-15.jpg",
+      "file": "fotos/foto-25.jpg",
       "original": "presentacion en uth dde san pedro 12 ddddde septiembre del 2026.jpeg",
       "fecha": "2026-09-12",
       "evento": "Presentación UTH San Pedro · 12 Sept 2026"
     },
     {
-      "file": "fotos/foto-16.jpg",
+      "file": "fotos/foto-26.jpg",
       "original": "presentacion en uth dde san pedro 12 de septiembre del 2026 2.jpeg",
       "fecha": "2026-09-12",
       "evento": "Presentación UTH San Pedro · 12 Sept 2026"
     },
     {
-      "file": "fotos/foto-17.jpg",
+      "file": "fotos/foto-27.jpg",
       "original": "presentacion en uth dde san pedro 12 de septiembre del 2026 3.jpeg",
       "fecha": "2026-09-12",
       "evento": "Presentación UTH San Pedro · 12 Sept 2026"
     },
     {
-      "file": "fotos/foto-18.jpg",
+      "file": "fotos/foto-28.jpg",
       "original": "presentacion en uth dde san pedro 12 de septiembre del 2026 4.jpeg",
       "fecha": "2026-09-12",
       "evento": "Presentación UTH San Pedro · 12 Sept 2026"
     },
     {
-      "file": "fotos/foto-19.jpg",
+      "file": "fotos/foto-29.jpg",
       "original": "presentacion en uth de san pedro 12 ddddde septiembre del 2026 2.jpeg",
       "fecha": "2026-09-12",
       "evento": "Presentación UTH San Pedro · 12 Sept 2026"
     },
     {
-      "file": "fotos/foto-20.jpg",
+      "file": "fotos/foto-30.jpg",
       "original": "presentacion en uth de san pedro 12 de septiembre del 2026 2.jpeg",
       "fecha": "2026-09-12",
       "evento": "Presentación UTH San Pedro · 12 Sept 2026"
