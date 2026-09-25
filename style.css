@@ -27,6 +27,7 @@ h1{margin:.15em 0;font-size:clamp(2.1rem,6vw,3.6rem);text-shadow:0 2px 12px rgba
 .dato{background:var(--verde-oscuro);color:#fff;padding:12px 16px;border-radius:12px;border-left:8px solid var(--amarillo)}
 /* Elenco */
 .fundador{position:absolute;top:12px;left:0;z-index:2;background:linear-gradient(90deg,#9a6b00,#ffd700 60%,#ffedb0);color:#3a2b00;font-weight:800;font-size:.7rem;letter-spacing:.1em;padding:6px 14px 6px 10px;border-radius:0 999px 999px 0;box-shadow:0 2px 8px rgba(0,0,0,.35)}
+.coordinador{position:absolute;top:44px;left:0;z-index:2;background:linear-gradient(90deg,var(--verde-oscuro),var(--verde-vivo));color:#fff;font-weight:800;font-size:.7rem;letter-spacing:.1em;padding:6px 14px 6px 10px;border-radius:0 999px 999px 0;box-shadow:0 2px 8px rgba(0,0,0,.35)}
 .fund-lista{background:linear-gradient(90deg,#9a6b00,#ffd700);color:#3a2b00 !important;font-weight:800 !important}
 .directora{display:flex;align-items:center;gap:12px;background:var(--amarillo-suave);border:2px solid var(--amarillo);border-radius:12px;padding:11px 15px}
 .directora img{width:64px;height:64px;border-radius:50%;object-fit:cover;object-position:top;border:3px solid var(--amarillo);flex-shrink:0}
