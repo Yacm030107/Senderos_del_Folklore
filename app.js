@@ -7,14 +7,14 @@ fetch('datos.json').then(r=>r.json()).then(d=>{
     const cap=document.createElement('figcaption');
     cap.textContent=f.evento;
     fig.appendChild(img); fig.appendChild(cap);
-    fig.onclick=()=>{const lb=document.getElementById('lightbox');document.getElementById('lightboxImg').src=f.file;document.getElementById('lightboxCap').textContent=f.evento+' · '+f.original;lb.hidden=false;};
+    fig.onclick=()=>{const lb=document.getElementById('lightbox');document.getElementById('lightboxImg').src=f.file;document.getElementById('lightboxCap').textContent=f.evento;lb.hidden=false;};
     gf.appendChild(fig);
   });
   const gv=document.getElementById('gridVideos');
-  d.clips.forEach(c=>{
+  d.clips.forEach((c,i)=>{
     const card=document.createElement('div');card.className='card-video';
     const v=document.createElement('video');v.src=c.file;v.controls=true;v.preload='metadata';
-    const p=document.createElement('p');p.textContent=c.evento+' · '+c.original;
+    const p=document.createElement('p');p.textContent='Clip '+(i+1)+' · '+c.evento+' · 20 seg';
     card.appendChild(v);card.appendChild(p);gv.appendChild(card);
   });
 }).catch(e=>{document.getElementById('gridFotos').textContent='No se pudo cargar datos.json: '+e;});
