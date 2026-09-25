@@ -196,68 +196,92 @@
     },
     {
       "file": "videos/clip-03.mp4",
+      "original": "Jelipita presentacion en septiembre 2025 campus uth villanueva.mp4",
+      "evento": "Jelipita · Sept 2025 · UTH Villanueva",
+      "inicio_seg": "57.6"
+    },
+    {
+      "file": "videos/clip-04.mp4",
       "original": "Presntecionen uth principios de abril 2.mp4",
       "evento": "Presentación UTH · 7 de febrero de 2026",
       "inicio_seg": "74.0"
     },
     {
-      "file": "videos/clip-04.mp4",
+      "file": "videos/clip-05.mp4",
       "original": "Presntecionen uth principios de abril.mp4",
       "evento": "Presentación UTH · 7 de febrero de 2026",
       "inicio_seg": "56.9"
     },
     {
-      "file": "videos/clip-05.mp4",
+      "file": "videos/clip-06.mp4",
+      "original": "presentacion completa de punta febrero del 2026.mp4",
+      "evento": "Presentación de punta · Febrero 2026",
+      "inicio_seg": "68.1"
+    },
+    {
+      "file": "videos/clip-07.mp4",
+      "original": "presentacion en febrero punta 2026.mp4",
+      "evento": "Presentación de punta · Febrero 2026",
+      "inicio_seg": "45.7"
+    },
+    {
+      "file": "videos/clip-08.mp4",
       "original": "Presntecion a Liberty School  24 de julio",
       "evento": "Presentación Liberty School · 24 de julio de 2026",
       "inicio_seg": "255.9"
     },
     {
-      "file": "videos/clip-06.mp4",
+      "file": "videos/clip-09.mp4",
       "original": "Presntecion a Liberty School  24 de julio 2.mp4",
       "evento": "Presentación Liberty School · 24 de julio de 2026",
       "inicio_seg": "138.5"
     },
     {
-      "file": "videos/clip-07.mp4",
+      "file": "videos/clip-10.mp4",
       "original": "Presntecion en municipalidad agosto 2026.mp4",
       "evento": "Presentación Municipalidad · Agosto 2026",
       "inicio_seg": "157.2"
     },
     {
-      "file": "videos/clip-08.mp4",
+      "file": "videos/clip-11.mp4",
       "original": "Presentacion en Municipalidad.mp4",
       "evento": "Presentación en Municipalidad de Villanueva",
       "inicio_seg": "6.6"
     },
     {
-      "file": "videos/clip-09.mp4",
+      "file": "videos/clip-12.mp4",
       "original": "presentacion en uth dde san pedro 12 ddddde septiembre del 2026 2.mp4",
       "evento": "Presentación UTH San Pedro · 12 Sept 2026",
       "inicio_seg": "54.1"
     },
     {
-      "file": "videos/clip-10.mp4",
+      "file": "videos/clip-13.mp4",
       "original": "presentacion en uth dde san pedro 12 dde septiembre del 2026 2.mp4",
       "evento": "Presentación UTH San Pedro · 12 Sept 2026",
       "inicio_seg": "136.0"
     },
     {
-      "file": "videos/clip-11.mp4",
+      "file": "videos/clip-14.mp4",
       "original": "presentacion en uth de san pedro 12 de septiembre del 2026 2.mp4",
       "evento": "Presentación UTH San Pedro · 12 Sept 2026",
       "inicio_seg": "256.5"
     },
     {
-      "file": "videos/clip-12.mp4",
+      "file": "videos/clip-15.mp4",
       "original": "presentacion uth sps 12 de septiembre 2026 2.mp4",
       "evento": "Presentación UTH San Pedro · 12 Sept 2026",
       "inicio_seg": "0"
     },
     {
-      "file": "videos/clip-13.mp4",
+      "file": "videos/clip-16.mp4",
       "original": "presentacion uth sps 12 de septiembre 2026 3.mp4",
       "evento": "Presentación UTH San Pedro · 12 Sept 2026",
+      "inicio_seg": "0"
+    },
+    {
+      "file": "videos/clip-17.mp4",
+      "original": "Presentacion en Sps 2026.mp4",
+      "evento": "Presentación en SPS · 2026",
       "inicio_seg": "0"
     }
   ]
