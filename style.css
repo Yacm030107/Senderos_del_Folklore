@@ -33,6 +33,15 @@ h1{margin:.15em 0;font-size:clamp(2.1rem,6vw,3.6rem);text-shadow:0 2px 12px rgba
 .coordinador{position:absolute;top:44px;left:0;z-index:2;background:linear-gradient(90deg,var(--verde-oscuro),var(--verde-vivo));color:#fff;font-weight:800;font-size:.7rem;letter-spacing:.1em;padding:6px 14px 6px 10px;border-radius:0 999px 999px 0;box-shadow:0 2px 8px rgba(0,0,0,.35)}
 .fund-lista{background:linear-gradient(90deg,#9a6b00,#ffd700);color:#3a2b00 !important;font-weight:800 !important}
 .directora{display:flex;align-items:center;gap:12px;background:var(--amarillo-suave);border:2px solid var(--amarillo);border-radius:12px;padding:11px 15px}
+.mv-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:14px;margin-top:14px}
+.mv-card{background:#fff;border:2px solid var(--verde);border-top:10px solid var(--amarillo);border-radius:0 0 14px 14px;padding:16px 18px;box-shadow:0 3px 12px rgba(8,64,38,.1)}
+.mv-card h3{margin:0 0 8px;color:var(--verde);font-size:1.25rem}
+.mv-card p{margin:0;line-height:1.65}
+.valores-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:12px;margin-top:14px}
+.valores-grid div{background:#fff;border:1px solid var(--linea);border-left:8px solid var(--amarillo);border-radius:12px;padding:12px 14px}
+.valores-grid div:nth-child(odd){border-left-color:var(--verde)}
+.valores-grid strong{display:block;color:var(--verde-oscuro);margin-bottom:4px}
+.valores-grid span{font-size:.87rem;color:#444}
 .directora img{width:64px;height:64px;border-radius:50%;object-fit:cover;object-position:top;border:3px solid var(--amarillo);flex-shrink:0}
 .directora strong{color:var(--verde-oscuro)}
 .elenco-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(270px,1fr));gap:14px;margin-top:12px}
