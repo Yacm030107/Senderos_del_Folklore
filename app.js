@@ -11,10 +11,10 @@ fetch('datos.json').then(r=>r.json()).then(d=>{
     gf.appendChild(fig);
   });
   const gv=document.getElementById('gridVideos');
-  d.clips.forEach((c,i)=>{
+  d.clips.forEach(c=>{
     const card=document.createElement('div');card.className='card-video';
     const v=document.createElement('video');v.src=c.file;v.controls=true;v.preload='none';v.poster=c.file.replace('clip-','poster-').replace('.mp4','.jpg');
-    const p=document.createElement('p');p.textContent='Clip '+(i+1)+' · '+c.evento+' · 20 seg';
+    const p=document.createElement('p');p.textContent=c.evento;
     card.appendChild(v);card.appendChild(p);gv.appendChild(card);
   });
 }).catch(e=>{document.getElementById('gridFotos').textContent='No se pudo cargar datos.json: '+e;});
