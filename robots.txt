@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yacm030107.github.io/Senderos_del_Folklore/sitemap.xml
