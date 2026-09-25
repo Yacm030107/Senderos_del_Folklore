@@ -22,7 +22,7 @@ document.getElementById('lightbox').onclick=e=>{e.currentTarget.hidden=true;};
 // Linea de tiempo interactiva estilo diapositiva
 const PASO_FOTOS=[
   {img:'fotos/foto-02.jpg',cap:'Debut · UTH San Pedro · Jul 2025'},
-  {img:'fotos/foto-06.png',cap:'FUNCAIN · 10 Sept 2025 + Bienvenida Villanueva'},
+  {img:'fotos/foto-05.png',cap:'FUNCAIN · 10 Sept 2025 + Bienvenida Villanueva'},
   {img:'fotos/foto-09.jpg',cap:'Municipalidad · Ago 2026'},
   {img:'fotos/foto-11.jpg',cap:'UTH San Pedro · 12 Sept 2026'},
 ];
