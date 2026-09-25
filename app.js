@@ -24,7 +24,7 @@ const PASO_FOTOS=[
   {img:'fotos/foto-03.jpg',cap:'Debut · UTH San Pedro · Jul 2025'},
   {img:'fotos/foto-08.png',cap:'FUNCAIN · 10 Sept 2025 + Bienvenida Villanueva'},
   {img:'fotos/foto-14.jpg',cap:'Municipalidad · Ago 2026'},
-  {img:'fotos/foto-23.jpg',cap:'UTH San Pedro · 12 Sept 2026'},
+  {img:'fotos/foto-21.jpg',cap:'UTH San Pedro · 12 Sept 2026'},
 ];
 function activaPaso(k){
   document.querySelectorAll('#riel .nodo').forEach(n=>n.classList.toggle('activo',+n.dataset.paso===k));
