@@ -3,7 +3,7 @@ fetch('datos.json').then(r=>r.json()).then(d=>{
   d.fotos.forEach(f=>{
     const fig=document.createElement('figure');
     const img=document.createElement('img');
-    img.src=f.file; img.alt=f.evento; img.loading='lazy';
+    img.src=f.file; img.alt=f.evento; img.loading='lazy'; img.decoding='async';
     const cap=document.createElement('figcaption');
     cap.textContent=f.evento;
     fig.appendChild(img); fig.appendChild(cap);
@@ -13,7 +13,7 @@ fetch('datos.json').then(r=>r.json()).then(d=>{
   const gv=document.getElementById('gridVideos');
   d.clips.forEach((c,i)=>{
     const card=document.createElement('div');card.className='card-video';
-    const v=document.createElement('video');v.src=c.file;v.controls=true;v.preload='metadata';
+    const v=document.createElement('video');v.src=c.file;v.controls=true;v.preload='none';v.poster=c.file.replace('clip-','poster-').replace('.mp4','.jpg');
     const p=document.createElement('p');p.textContent='Clip '+(i+1)+' · '+c.evento+' · 20 seg';
     card.appendChild(v);card.appendChild(p);gv.appendChild(card);
   });
