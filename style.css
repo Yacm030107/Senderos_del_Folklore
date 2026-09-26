@@ -101,6 +101,8 @@ h1{margin:.15em 0;font-size:clamp(2.1rem,6vw,3.6rem);text-shadow:0 2px 12px rgba
 .red.yt{border-top-color:#ff0000}.red.yt strong{color:#ff0000}
 .red.ig{border-top-color:#c13584}.red.ig strong{color:#c13584}
 .red.tt{border-top-color:#111}.red.tt strong{color:#111}
+.red.ve{border-top-color:#1e6fd9}.red.ve strong{color:#1e6fd9}
+.red p{font-size:.88rem;color:#444;margin:8px 0 0;line-height:1.55}
 footer{text-align:center;padding:26px;background:linear-gradient(90deg,var(--verde-oscuro),var(--verde));color:#fff;border-top:6px solid var(--amarillo)}
 footer a{color:var(--amarillo);font-weight:700}
 footer .credito{margin:8px 0 0;font-size:.85rem;color:var(--amarillo-claro);letter-spacing:.05em}
