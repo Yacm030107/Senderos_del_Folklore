@@ -13,12 +13,17 @@ fetch('datos.json').then(r=>r.json()).then(d=>{
   const gv=document.getElementById('gridVideos');
   d.clips.forEach(c=>{
     const card=document.createElement('div');card.className='card-video';
-    const v=document.createElement('video');v.src=c.file;v.controls=true;v.preload='none';v.poster=c.file.replace('clip-','poster-').replace('.mp4','.jpg');
+    const v=document.createElement('video');v.src=c.file;v.controls=true;v.preload='metadata';v.poster=c.file.replace('clip-','poster-').replace('.mp4','.jpg');v.disablePictureInPicture=true;v.setAttribute('controlsList','nodownload noremoteplayback');v.setAttribute('playsinline','');
+    v.addEventListener('play',()=>{document.querySelectorAll('#gridVideos video').forEach(o=>{if(o!==v)o.pause();});});
     const p=document.createElement('p');p.textContent=c.evento;
     card.appendChild(v);card.appendChild(p);gv.appendChild(card);
   });
 }).catch(e=>{document.getElementById('gridFotos').textContent='No se pudo cargar datos.json: '+e;});
 document.getElementById('lightbox').onclick=e=>{e.currentTarget.hidden=true;};
+// Un video a la vez y solo dentro del sitio: pausa al cambiar de pestaña o al salir de pantalla
+document.addEventListener('visibilitychange',()=>{if(document.hidden){document.querySelectorAll('video').forEach(v=>v.pause());};});
+const obsOff=new IntersectionObserver(es=>{es.forEach(e=>{if(!e.isIntersecting){e.target.pause();}});},{threshold:0.2});
+new MutationObserver(()=>{document.querySelectorAll('#gridVideos video').forEach(v=>obsOff.observe(v));}).observe(document.getElementById('gridVideos'),{childList:true});
 // Linea de tiempo interactiva estilo diapositiva
 const PASO_FOTOS=[
   {img:'fotos/foto-03.jpg',cap:'Debut · UTH San Pedro · Jul 2025'},
